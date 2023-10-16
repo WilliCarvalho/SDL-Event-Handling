@@ -1,0 +1,3 @@
+D:/Cursos-Projetos/GameProjects/SDL/Event-Handle/cmake-build-debug/CMakeFiles/Event_Handle.dir
+D:/Cursos-Projetos/GameProjects/SDL/Event-Handle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Cursos-Projetos/GameProjects/SDL/Event-Handle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

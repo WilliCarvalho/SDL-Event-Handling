@@ -1,0 +1,9 @@
+# ninja log v5
+0	521	7191765553240715	CMakeFiles/Event_Handle.dir/main.cpp.obj	ee41f32b190793fa
+522	578	7191765553798851	Event_Handle.exe	bdb6021729a81dc7
+2	540	7191766447465783	CMakeFiles/Event_Handle.dir/main.cpp.obj	ee41f32b190793fa
+540	598	7191766448023918	Event_Handle.exe	bdb6021729a81dc7
+2	503	7191767027922759	CMakeFiles/Event_Handle.dir/main.cpp.obj	ee41f32b190793fa
+503	562	7191767028490858	Event_Handle.exe	bdb6021729a81dc7
+2	509	7191768187463841	CMakeFiles/Event_Handle.dir/main.cpp.obj	ee41f32b190793fa
+509	571	7191768188071806	Event_Handle.exe	bdb6021729a81dc7
